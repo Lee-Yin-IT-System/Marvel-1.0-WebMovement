@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\admin",
+    "\\admin\\application",
+    "\\admin\\application\\config",
+    "\\admin\\application\\controllers",
+    "\\admin\\application\\views",
+    "\\admin\\application\\views\\admin",
+    "\\admin\\assets"
+  ],
+  "SelectedNode": "\\admin\\application\\views\\admin\\movementAcc.php",
+  "PreviewInSolutionExplorer": false
+}
